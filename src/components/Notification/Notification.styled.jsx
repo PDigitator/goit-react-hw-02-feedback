@@ -5,6 +5,7 @@ const Paragraph = styled.p`
   padding-top: 0;
 
   font-size: 18px;
+  color: #768696;
 `;
 
 export { Paragraph };
